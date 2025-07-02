@@ -6,6 +6,11 @@
 ## Category-enUS: User Interface
 ## SavedVariables: LocalUIPrefs, LocalUI_DeviceName
 
+## OptionalDeps: AceSerializer-3.0
+
+Libs/LibStub/LibStub.lua
+Libs/AceSerializer-3.0/AceSerializer-3.0.lua
+
 Core.lua
 Utils.lua
 SaveLoad.lua
