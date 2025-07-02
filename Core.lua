@@ -1,11 +1,9 @@
--- Boot core
+-- Set up global storage and namespace
 LocalUIPrefs = LocalUIPrefs or {}
 LocalUI_DeviceName = LocalUI_DeviceName or nil
-
--- Shared namespace table
 LocalUI = {}
 
--- Hook UI event dispatcher if needed
+-- Hook events
 local frame = CreateFrame("Frame")
 LocalUI.CoreFrame = frame
 frame:RegisterEvent("ADDON_LOADED")
