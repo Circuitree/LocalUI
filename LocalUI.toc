@@ -1,0 +1,13 @@
+## Interface: 110107
+## Title: Local UI Manager
+## Notes: Save, load, export, and share UI setups between devices
+## Author: Circuitree
+## Version: 0.1
+## SavedVariables: LocalUIPrefs, LocalUI_DeviceName
+
+Core.lua
+Utils.lua
+SaveLoad.lua
+AutoLoad.lua
+ExportImport.lua
+UIFrame.lua
