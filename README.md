@@ -1,5 +1,5 @@
 # LocalUI 🌐
-A personal UI profile manager for World of Warcraft — built to make switching between devices, characters, or setups effortless.
+A personal UI profile manager for World of Warcraft — built to make switching between devices, or setups effortless.
 
 ## 📦 Features
 
