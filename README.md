@@ -65,4 +65,3 @@ SavedVariables:
 They are shared across characters/account, unless manually altered.
 
 Created with love and a dash of Lua ✨
-
