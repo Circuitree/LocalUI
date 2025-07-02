@@ -43,7 +43,9 @@ World of Warcraft\retail\Interface\AddOns\LocalUI\
 /lui save <name>    - Save current UI + keybinds
 /lui load <name>    - Load a saved profile
 /lui export <name>  - Print a shareable Base64 string
+/lui import <name>  - Imports from a shared Base64 string
 /lui ui             - Open the in-game UI panel
+```
 
 🔄 How Profiles Work
 Each device is assigned a name on first login. That name is used as the profile key. You can rename it later from the UI.
